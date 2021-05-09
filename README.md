@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A website that offers search engine optimizeation, reputation management and media marketing.
+A website that offers search engine optimizeation, reputation management, and media marketing thats made easy for everyone to use.
 
 ## Built With
 
@@ -11,7 +11,7 @@ A website that offers search engine optimizeation, reputation management and med
 
 ## Website
 
-http://127.0.0.1:5500/Develop/index.html
+https://github.com/conor-mc-cormack/Code-Refactor
 
 ## Contribution
 
